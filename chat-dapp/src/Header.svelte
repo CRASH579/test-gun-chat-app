@@ -6,6 +6,7 @@
     }
   </script>
   
+  
   <header>
   <h1>Decentralised Chat App</h1>
     {#if $username}
